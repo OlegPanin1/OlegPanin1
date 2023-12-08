@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi 👋
 
-I am marketing analyst who passionate with data analysis, market research, looking for insights.
+- I'm a marketing analyst who is passionate about data analysis, market research, and finding insights.
 
-Will be glad to participate in marketing analytics and create BI-report for your company.
+- I would be happy to colloborate in marketing analytics and create BI reports for your company.
 
+- Send me a message: @OlegPanini
 
