@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in FinTech
-- 🌱 I graduated from Yandex Practicum
-- 👯 I’m looking to collaborate on product management
+I am marketing analyst who passionate with data analysis, market research, looking for insights.
+
+Will be glad to participate in marketing analytics and create BI-report for your company.
 
 
