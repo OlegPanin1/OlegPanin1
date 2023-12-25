@@ -1,8 +1,8 @@
 Hi 👋
 
-- I'm a marketing analyst who is passionate about data analysis, market research, and finding insights.
+- I'm a product manager who is passionate about creating lead generation mechanisms, data analysis, market research, and finding insights.
 
-- I would be happy to colloborate in marketing analytics and create BI reports for your company.
+- I would be happy to colloborate in marketing analytics.
 
 - Send me a message: @OlegPanini
 
