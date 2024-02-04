@@ -1,6 +1,6 @@
 Hi 👋
 
-- I'm a product manager who is passionate about creating lead generation mechanisms, data analysis, market research, and finding insights.
+- I'm an analyst who is passionate about data analysis, market research, and finding insights.
 
 - I would be happy to colloborate in marketing analytics.
 
