@@ -1,4 +1,4 @@
-Data Analyst | 4+ years in e-commerce & marketing analytics
+Analyst | 4+ years in e-commerce & marketing analytics
 
 SQL • Python • A/B testing • LTV/CAC/ROMI • Power BI • Tableau • Visiology
 
