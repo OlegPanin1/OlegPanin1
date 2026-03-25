@@ -1,8 +1,9 @@
-Hi 👋
+Data Analyst | 4+ years in e-commerce & marketing analytics
 
-- I'm an analyst who is passionate about data analysis, market research, and finding insights.
+SQL • Python • A/B testing • LTV/CAC/ROMI • Power BI • Tableau • Visiology
 
-- I would be happy to colloborate in marketing analytics.
+Experience: e-commerce • edtech • adtech • fintech
 
-- Send me a message: @OlegPanini
+I turn data into business decisions.
 
+📫 TG: @OlegPanini
