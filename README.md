@@ -1,3 +1,1 @@
-Outreach manager
-
-📫 TG: @OlegPanini
+📫 TG: @O1eg001
